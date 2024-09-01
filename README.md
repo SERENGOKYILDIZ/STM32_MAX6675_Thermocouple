@@ -1,4 +1,4 @@
-# ESP32 Rotary Encoder
+# STM32 MAX6675 K Type Thermocouple
 ## Circuit
 ![deneme](circuit.png)
 
